@@ -1,5 +1,12 @@
 <?php
 
+header('Access-Control-Allow-Origin: *');
+
+header('Access-Control-Allow-Methods: GET, POST');
+
+header("Access-Control-Allow-Headers: X-Requested-With");
+
+
 define('ENCRYPTION_KEY', 'ab86d144e');
 define('KEYPAIR_PUBLIC_BASE64', '/1VQHNj8MjJhSD/eX7jc/7EfiYv43A3vZw1l00AyLRk');
 define('ENCRYPTED_KEYPAIR_BASE64', 'NidTPQPa07WOxNpqHg8G9iwWhRC9XT70DDYd1McLqcHnIzFv6UibUOq5sUSyhLdG9d5ZYQpjtG5gYmFyN5hiNLO4QxE/6JIZRcLefH5BVwtv8gO3PTqVc8Dmp1/0Brph9ruNijF/rmoNRoVAzjP1xlxtkWCz4B++WP04jIX6HsfvDqV/I4YkD6x2EzBVNNeg');
