@@ -1,0 +1,96 @@
+{
+
+    "learn" : {
+        "navbar": [
+            "Cómo funciona",
+            "Mercado",
+            "Acerca de",
+            "Preguntas frecuentes"
+        ],
+        "btn-header": "Invierte en tu riqueza",
+        "modal": {
+            "title": "Está sucediendo ahora",
+            "text-2": [
+                "Estamos creando una comunidad de personas como tú para compartir los primeros proyectos de dEquity con el mundo.",
+                "Sé uno de los primeros en saber cuándo se lanzan las propiedades."
+            ],
+            "inputPlaceHolder": "Introduce tu correo electrónico",
+            "send": "Enviar"
+        },
+        "animation-text": "preguntas frecuentes",
+        "animation-text-test": "<span class='fw-light text-1 m-text-3 animation_text_flipIn' style='ont-weight: 600;'>preguntas frecuentes</span>",
+        "accordion-wrapper-titles": [
+            "Acerca de la Equidad",
+            "Inversión inmobiliaria",
+            "Tokenización/NFT",
+            "Empezando",
+            "Comprar",
+            "Poseer",
+            "Propiedad administrativa",
+            "Preguntas generales",
+            "Aprender"
+        ],
+        "accordion-wrapper2-answers": [
+            {"title": "¿Qué es dEquity?", "answer": "dEquity es una plataforma transaccional basada en blockchain que hace que sea más que simple invertir en bienes raíces y obtener ingresos por alquileres desde el primer día", "tab": " tabulador-1"},
+            {"title" : "¿Por qué invertir a través de dEquity?", "answer": "dEquity es una plataforma en la que múltiples inversores inmobiliarios residenciales optan por invertir en una propiedad de alquiler y así aprovechar un flujo de ingresos de las obligaciones de arrendamiento de la propiedad. dEquity ofrece el beneficio del crowdsourcing para ingresos de inversión y evita las desventajas del mantenimiento que asumen los propietarios de alquiler típicos. El mercado de dEquity permite a los prospectos ver los documentos financieros de una propiedad y enviar una oferta desde casa.", "tab": "tab-1 "},
+            {"title" : "¿Por qué invertir en bienes raíces?", "answer": "Los bienes raíces ofrecen flujo de efectivo, creación de capital, rendimientos competitivos ajustados al riesgo, preservación del capital y protección contra la inflación.", "tab": "tab -2"},
+            {"title" : "¿Por qué invertir en Miami?", "answer": "¡Miami es un gran mercado para invertir! Miami es considerado el mercado más destacado en el que la renta crece más rápido anualmente (YoY). En 2023, el índice renal muestra un impresionante 14,3%* de apreciación.<br> Fuente: <a href='https://www.zillow.com/research/renting/' class='link' target='_blank'>www.zillow.com</a><br> Además, el índice de venta de viviendas de Miami en 2023 muestra un aumento interanual (YOY) del 17,3 % desde septiembre de 2021. <br> Fuente: <a href='https://www.redfin.com ' class='link' target='_blank'>www.redfin.com</a>", "tab": "tab-2"},
+            {"title" : "¿Qué es NFT?", "answer": "NFT significa 'Token no fungible'. Es un activo digital que representa la propiedad de un artículo único, como bienes inmuebles, coleccionables y otros activos .", "tab": "tab-3"},
+            {"title" : "¿Qué es la 'tokenización'?", "answer": "La tokenización es el proceso de creación de 'tokens digitales'/NFT que representan un activo del mundo real, como una propiedad inmobiliaria. Tokenización de bienes inmuebles el uso de NFT implica representar la propiedad de un activo inmobiliario mediante un ‘token digital’ almacenado en una cadena de bloques. Empresas como Circle han producido <a href='https://www.circle.com/en/usdc'>dólares tokenizados</a>, Paxos ha creado <a href='https://paxos.com/paxgold/'>oro tokenizado</a>, ¡y ahora dEquity permite a los inversores aprovechar los bienes raíces fraccionados tokenizados!", "tab": "tab-3"},
+            {"title" : "¿Qué es la inversión fraccionada?", "answer": "Invertir en bienes raíces fraccionarios permite a los inversores comprar una parte de una propiedad en lugar de la propiedad completa, lo que hace que la inversión inmobiliaria sea más simple, asequible y emocionante.", "tab": "tab-3"},
+            {"title" : "¿Cómo puedo comenzar?", "answer": "¡Comenzar es simple! Simplemente vaya a nuestro mercado. Busque su propiedad de inversión ideal con parámetros de búsqueda personalizados Identifique su propiedad de alquiler perfecta. Compre su primera NFT y comience a construir su cartera de inversiones. Disfrute de sus ingresos de alquiler depositados directamente en su billetera.", "tab": "tab-4"},
+            {"title": "¿Qué es una billetera? ¿Por qué necesito una?", "answer": "Las billeteras criptográficas almacenan sus claves privadas, manteniendo su criptografía segura y accesible. Si no tiene una billetera criptográfica, no hay problema . Nuestra guía paso a paso hará que su primera compra sea satisfactoria.", "tab": "tab-4"},
+            {"title": "¿Cuál es la inversión mínima?", "answer": "La inversión mínima es de $100 por NFT, lo que representa un interés de membresía en la LLC propietaria de la propiedad.", "tab": "tab-5 "},
+            {"title": "¿Cuánto tiempo después de que pague recibiré NFT en mi billetera?", "answer": "Sus NFT se enviarán instantáneamente a su billetera si usa una tarjeta de crédito o criptomoneda para realizar el pago.", "tab": "tab-5"},
+            {"title" : "¿Cuál es el número máximo de NFT que puedo comprar en cada propiedad?", "answer": "Cada inversor puede comprar el 10 % de los NFT para cada propiedad. Si la propiedad está activa durante más de tres días , este porcentaje aumenta al 15%..", "tab": "tab-5"},
+            {"title" : "¿Cómo se eligen las propiedades para el inventario?", "answer": "Nuestro equipo de inversionistas inmobiliarios altamente experimentados selecciona oportunidades de inversión para nuestros clientes. Cada unidad ha sido inspeccionada, los impuestos y los servicios públicos han sido pagados Se han encontrado inquilinos completos y aceptables. ¡Explore nuestro mercado para comenzar!", "tab": "tab-5"},
+            {"title" : "¿Cómo se manejan las inspecciones de la propiedad?", "answer": "Una empresa de inspección externa profesional inspecciona todas las propiedades. Puede encontrar el informe de inspección en la sección Documentos de las páginas de la propiedad.", "tab" : "tab-5"},
+            {"title" : "¿Se compran las propiedades con deuda?", "answer": "No, todas las propiedades se compran usando todo el efectivo sin deuda.", "tab": "tab-5"},
+            {"title" : "¿Cómo gano dinero?", "answer": "Comprando y vendiendo sus propiedades mientras recibe ingresos por alquiler en el medio. La “salsa secreta” es simple “Comprar - Mantener - Ganar - Repetir.”" , "tab": "tab-6"},
+            {"title" : "¿Cómo recibo mis ingresos por alquiler?", "answer": "El alquiler se paga quincenalmente o cada dos semanas en monedas estables con el mismo valor que una moneda como dólares. Su uso permite a los inversores recibir su ingresos por alquiler en una moneda estable que no fluctúa.", "tab": "tab-6"},
+            {"title" : "¿Qué puedo hacer con mis propiedades?", "answer": "Los bienes inmuebles son una de las mejores reservas de valor que existen. Cuanto más tiempo conserve sus propiedades, mayor será el rendimiento que puede esperar obtener Simplemente invierta en propiedades de alquiler, reciba el flujo de efectivo y reinvierta para comprar más. La “salsa secreta” es simple “Comprar - Mantener - Ganar - Repetir.” Puede pedir prestado contra sus propiedades para comprar más propiedades o vender sus NFT en nuestro mercado secundario en cualquier momento. ¡Tú siempre tienes el control!", "tab": "tab-6"},
+            {"title" : "¿Cómo puedo hacer un seguimiento del rendimiento de mi propiedad?", "answer": "Todos los propietarios tienen su panel de control, llamado \"Resumen de activos\", donde puede ver mis NFT que posee y su valor principal actual. Verá cuánto dinero se ha agregado a su cuenta, junto con registros de transacciones históricas. Se ajustará automáticamente, comenzando después de que se complete la compra de NFT.", "tab": "tab-6"},
+            {"title" : "¿Quién administra las propiedades?", "answer": "Todas las propiedades son administradas por compañías de administración independientes profesionales con licencia y aseguradas responsables de alquilar la propiedad, cobrar el alquiler y mantener o reparar la propiedad.", "tab ": "tab-7"},
+            {"title" : "¿Cómo se manejan las reparaciones?", "answer": "Cada propiedad tiene una Reserva de mantenimiento del 5% al 8% para manejar reparaciones inesperadas. Si es necesario realizar una reparación extensa que exceda la Reserva de mantenimiento, entonces todos los ingresos del alquiler se utilizarán para pagar las reparaciones. Supongamos que se utiliza cualquier parte de la Reserva de mantenimiento. En ese caso, se repondrá con el 10% del flujo de ingresos mensuales hasta que se llene nuevamente.", "tab": "tab-7"},
+            {"title" : "Autenticación de dos factores: ¿qué es?", "answer": "La autenticación de dos factores (2FA) agrega una capa de seguridad a su contraseña. Con 2FA habilitado en su cuenta, deberá proporcionar su Código 2FA al realizar acciones específicas.", "tab": "tab-8"},
+            {"title" : "¿Puedo referir a alguien a Dequity?", "answer": "¡Absolutamente! Amamos a sus amigos y familiares. Una vez que crea una cuenta de dEquity, puede acceder a un enlace de referencia único que rastreará su referencia y recompensará usted con un incentivo dEquity que puede aplicar a su próxima inversión.", "tab": "tab-8"},
+            {"title" : "¿Quién puede invertir?", "answer": "dEquity está disponible para que casi todo el mundo invierta en bienes raíces. Todos los ciudadanos europeos y de América del Norte y del Sur, y la mayoría de los países asiáticos, pueden registrarse y invertir con dEquity.", "tab": "tab-8"},
+            {"title" : "Es posible que los residentes de los siguientes países no puedan usar nuestra plataforma:", "answer": "<ul class='ml-4'><li>Estados Unidos</li><li>Afganistán </li><li>Bielorrusia</li><li>Birmania</li><li>Burundi</li><li>República Centroafricana</li><li>Cuba</li><li>Democrático República del Congo</li><li>Guinea-Bissau</li><li>Irán</li><li>Irak</li><li>Líbano</li><li>Libia</li><li>Malí</li><li>Nicaragua</li><li>Corea del Norte</li><li>Somalia</li><li>Sudán del Sur</li><li>Sudán</li><li>Siria</li><li>Venezuela</li><li>Yemen</li></ul><br><small>*Esta lista no incluye todo. Se pueden aplicar restricciones adicionales.</small ><br><br>", "tab": "tab-8"},
+            {"title" : "INVERSORES DE EE. UU.", "answer": "En este momento, dEquity no está disponible para los inversores de EE. ¡Te mantendré informado!", "tab": "tab-8"},
+            {"title" : "Obtenga conocimiento", "answer": "Nuestros expertos comparten conocimientos, perspectivas y nuevas ideas sobre varios temas relacionados con nuestro negocio y mercados. Eche un vistazo a lo que tienen en mente.", "tab": "tab-9"},
+            {"title" : "Ingresos potenciales", "answer": "Los bienes raíces pueden generar ingresos a través de los pagos de alquiler de los inquilinos. Esto puede proporcionar un flujo constante de ingresos para el inversionista.", "tab": "tab-9"},
+            {"title" : "Potencial de apreciación", "answer": "El valor de los bienes inmuebles puede aumentar con el tiempo, lo que lleva a la apreciación del capital de los inversores.", "tab": "tab-9"},
+            {"title" : "Diversificación", "answer": "Los bienes raíces son una excelente adición a una cartera porque no están vinculados a otras clases de activos como acciones y bonos. Esto puede ayudar a diversificar y mejorar el rendimiento general de la cartera.", "tab": "tab-9"},
+            {"title": "Flujo de caja de alquiler", "answer": "La inversión en propiedades generadoras de ingresos está diseñada para generar flujo de caja con activos estables.", "tab": "tab-9"},
+            {"title" : "Apreciación del alquiler", "answer": "Los aumentos de alquiler anuales crean oportunidades para pagos más altos.", "tab": "tab-9"},
+            {"title" : "Apreciación del capital", "answer": "Sus inversiones crecen a medida que aumenta el valor de las propiedades, lo que puede ayudarlo a alcanzar sus objetivos financieros. Preservación del capital Invertir en bienes raíces proporciona una cobertura contra la inflación a largo plazo y protege su activos.", "tab": "tab-9"},
+            {"title" : "Protección contra la inflación", "answer": "Mientras que las acciones, los bonos y el efectivo tienden a verse afectados negativamente por la inflación, históricamente se ha demostrado que los bienes raíces son una protección atractiva contra la inflación.", "tab": "tab-9"}
+
+        ],
+        "section-10": {
+            "text-1": "Creemos que la democracia es más fuerte cuando todos tienen la propiedad",
+            "text-2": "Inmobiliario conjunto<br> invirtiendo (r)evolución",
+            "btn": "Construye tu riqueza"
+        },
+        "footer": {
+            "resourses":{
+                "title":"Recursos",
+                "text":[
+                    "Sobre nosotros",
+                    "Preguntas frecuentes"
+                ]
+            },
+            "contact": {
+                "title": "Contacta con nosotros",
+                "text": [
+                    "Mercado",
+                    "info@dEquity.io"
+                ]
+            },
+            "copyright": "© Copyright 2023 dEquity. Todos los derechos reservados.",
+            "testText": "Tenga en cuenta que el sitio se encuentra actualmente en una fase de prueba y no se brindan servicios. La única funcionalidad del sitio en este momento es recopilar los datos de contacto de correo electrónico proporcionados por el usuario para contactar a las personas que pueden estar interesadas en los servicios en el futuro."
+
+        }
+    }
+
+}

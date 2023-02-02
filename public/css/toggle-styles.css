@@ -1,0 +1,36 @@
+.toggle-wrapper{
+  border: #76C0DF solid 1px;
+  border-radius: 14px;
+  margin-right: 22px;
+  margin-left: 6px;
+  padding: 4px 4px;
+  display: flex;
+  align-items: center;
+  column-gap: 2px;
+}
+
+.icon-div{
+  padding: 4px 6px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: all .2s ease;
+}
+
+.icon-div:hover{
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(200, 200, 200, 0.5);
+}
+
+.icon-div-dark{
+  background: var(--toggle-dark-background);
+}
+
+.icon-div-light{
+  background: var(--toggle-light-background);
+}

@@ -1,0 +1,97 @@
+{
+
+    "learn" : {
+        "navbar": [
+            "How it Works",
+            "Marketplace",
+            "About",
+            "FAQs"
+        ],
+        "btn-header": "Invest in your wealth",
+        "modal": {
+            "title": "It’s happening now",
+            "text-2": [
+                "We're growing a community of people like you to share dEquity's first projects with the world.",
+                "Be among the first to know when properties are released."
+            ],
+            "inputPlaceHolder": "Enter your email",
+            "send": "Send"
+        },
+        "animation-text": "FAQs",
+        "animation-text-test": "<span class='fw-light text-1 m-text-3 animation_text_flipIn' style='ont-weight: 600;'>FAQs</span>",
+        "accordion-wrapper-titles": [
+            "About dEquity",
+            "Real estate investing",
+            "Tokenization/NFT",
+            "Getting started",
+            "Buying",
+            "Owning",
+            "Property management",
+            "General questions",
+            "Learn"
+        ],
+        "accordion-wrapper2-answers": [
+            {"title" : "What is dEquity?", "answer": "dEquity is a blockchain-based transactional platform that makes it beyond simple to invest in real estate and earn rental income on day one.", "tab": "tab-1"},
+            {"title" : "Why invest through dEquity?", "answer": "dEquity is a platform in which multiple residential real estate investors opt to invest in a rental property and thus take advantage of an income stream from the leasing obligations of the property. dEquity offers the benefit of crowdsourcing for investment income while avoiding the disadvantages of maintenance that typical rental landlords assume. dEquity’s marketplace allows prospects to view a property’s financial documents and submit an offer from home.", "tab": "tab-1"},
+            {"title" : "Why invest in real estate?", "answer": "Real estate offers cash flow, equity building, competitive risk-adjusted returns, capital preservation and a hedge against inflation.", "tab": "tab-2"},
+            {"title" : "Why invest in Miami?", "answer": "Miami is a great market to invest! Miami is considered the most outstanding market in which rent grows faster yearly (YoY). In 2023 renal index shows a stunning 14,3%*  appreciation.<br> Source: <a href='https://www.zillow.com/research/renting/' class='link' target='_blank'>www.zillow.com</a><br> Also, the Miami homes sale index in 2023 shows a 17.3% year-over-year (YOY) increase from September 2021. <br> Source: <a href='https://www.redfin.com' class='link' target='_blank'>www.redfin.com</a>", "tab": "tab-2"},
+            {"title" : "What is the NFT?", "answer": "NFT stands for ‘Non-Fungible Token.’ It is a digital asset representing ownership of a unique item, such as real estate, collectibles, and other assets.", "tab": "tab-3"},
+            {"title" : "What is ‘tokenization’?", "answer": "Tokenization is the process of creating ‘digital tokens’/NFTs that represent a real-world asset, such as a piece of real estate. Tokenizing real estate using NFTs involves representing ownership of a real estate asset using a ‘digital token’ stored on a blockchain. Companies like Circle has produced <a href='https://www.circle.com/en/usdc'>tokenized Dollars</a>, Paxos have created <a href='https://paxos.com/paxgold/'>tokenized gold</a>, and now dEquity empowers investors to take advantage of tokenized fractional real estate! ", "tab": "tab-3"},
+            {"title" : "What is fractional investing?", "answer": "Investing in fractional real estate allows investors to purchase a portion of a property rather than the entire property, making real estate investing simpler, affordable and exciting.", "tab": "tab-3"},
+            {"title" : "How can I get started?", "answer": "Getting started is simple! Just go to our marketplace. Search for your ideal investment property with custom search parameters Identify your perfect rental property. Purchase your first NFT and begin building your investment portfolio. Enjoy your rental income deposited directly to your wallet.", "tab": "tab-4"},
+            {"title" : "What is a Wallet? Why do I need one?", "answer": "Crypto wallets store your private keys, keeping your crypto safe and accessible. If you don't have a crypto wallet, no problem. Our step-by-step guide will make your first-time purchase satisfying.", "tab": "tab-4"},
+            {"title" : "What is the minimum investment?", "answer": "The minimum investment is $100 per NFT, which represents a membership interest in the LLC that owned the property.", "tab": "tab-5"},
+            {"title" : "How long after I pay will I receive NFTs in my wallet?", "answer": "Your NFTs will be delivered instantly to your wallet if you use a credit card or cryptocurrency to make the payment.", "tab": "tab-5"},
+            {"title" : "What is the maximum number of NFTs I can purchase in each property?", "answer": "Each investor can buy 10% of the NFTs for each property. If the property is live for more than three days, this percentage increases to 15%.", "tab": "tab-5"},
+            {"title" : "How are properties chosen for inventory?", "answer": "Our team of highly experienced real estate investors hand-pick investment opportunities for our clients. Each unit has been inspected, taxes and utilities have been paid in full, and acceptable renters have been found. Explore our marketplace to get started!", "tab": "tab-5"},
+            {"title" : "How are inspections of the property handled?", "answer": "A professional 3rd party inspection company inspects all properties. You can find the inspection report in the property pages' Documents section.", "tab": "tab-5"},
+            {"title" : "Are properties purchased with debt?", "answer": "No, all properties are purchased using all cash with no debt.", "tab": "tab-5"},
+            {"title" : "How do I make money?", "answer": "By buying and selling your holdings while receiving rental income in between. The “secret sauce” is simple “Buy - Hold - Earn - Repeat”.", "tab": "tab-6"},
+            {"title" : "How do I receive my rental income?", "answer": "Rent is paid bi-weekly or every two weeks in stablecoins with the same value as a currency like dollars. Using it allows investors to receive their rental income in a stable currency that does not fluctuate.", "tab": "tab-6"},
+            {"title" : "What can I do with my holdings?", "answer": "Real estate is one of the best stores of value that exists. The longer you keep your holdings, the more significant return you can expect to realize. Simply invest in rental properties, receive the cash flow, and reinvest to buy more. The “secret sauce” is simple “Buy - Hold - Earn - Repeat”. You can borrow against your holdings to buy more properties or sell your NFTs on our secondary marketplace at any time. You are always in control!", "tab": "tab-6"},
+            {"title" : "How can I track my property's performance?", "answer": "All owners have their dashboard, called \"Asset Overview,\" where you can see my NFTs you hold and their current principal value. You'll see how much money has been added to your account, along with records of historical transactions. It will adjust automatically, starting after the NFT purchase is complete.", "tab": "tab-6"},
+            {"title" : "Who manages the properties?", "answer": "All properties are managed by licensed and insured professional independent management companies responsible for renting the property, collecting rent, and maintaining or repairing the property.", "tab": "tab-7"},
+            {"title" : "How are repairs handled?", "answer": "Each property has a Maintenance Reserve of 5–8% to handle unexpected repairs. If an extensive repair that exceeds the Maintenance Reserve needs to be made, then all the rental income will be used to pay for the repairs. Suppose any portion of the Maintenance Reserve is used. In that case, it will be replenished using 10% of the monthly proceeds flow until it is full again.", "tab": "tab-7"},
+            {"title" : "Two-Factor Authentication—what is it?", "answer": "Two-Factor Authentication (2FA) adds a security layer to your password. With 2FA enabled on your account, you will have to provide your 2FA code when performing specific actions.", "tab": "tab-8"},
+            {"title" : "Can I refer someone to Dequity?", "answer": "Absolutely! We love your friends and family. Once you create a dEquity account, you can access a unique referral link that will track your referral and reward you with a dEquity incentive that you can apply to your next investment.", "tab": "tab-8"},
+            {"title" : "Who is allowed to invest?", "answer": "dEquity is available for almost everyone to invest in real estate with! All European and North and South American citizens, and most Asian countries, can sign up and invest with dEquity.", "tab": "tab-8"},
+            {"title" : "Residents of the following countries may not be permitted to use our platform:", "answer": "<ul class='ml-4'><li>United States</li><li>Afghanistan</li><li>Belarus</li><li>Burma</li><li>Burundi</li><li>Central African Republic</li><li>Cuba</li><li>Democratic Republic of Congo</li><li>Guinea-Bissau</li><li>Iran</li><li>Iraq</li><li>Lebanon</li><li>Libya</li><li>Mali</li><li>Nicaragua</li><li>North Korea</li><li>Somalia</li><li>South Sudan</li><li>Sudan</li><li>Syria</li><li>Venezuela</li><li>Yemen</li></ul><br><small>*This list is not all-inclusive. Additional restrictions may apply.</small><br><br>", "tab": "tab-8"},
+            {"title" : "U.S. INVESTORS", "answer": "Right now, dEquity is not available to U.S. investors. It is in the dEquity vision and roadmap to open access to the dEquity platform to all U.S. investors in the future. We will keep you posted!", "tab": "tab-8"},
+            {"title" : "Get knowledge", "answer": "Our experts share insights, perspectives, and new ideas on various topics related to our business and markets. Take a look at what’s on their mind.", "tab": "tab-9"},
+            {"title" : "Income potential", "answer": "Real estate can generate income through tenant rental payments. This can provide a steady stream of income for the investor.", "tab": "tab-9"},
+            {"title" : "Potential for appreciation", "answer": "Real estate values can increase over time, leading to investor capital appreciation.", "tab": "tab-9"},
+            {"title" : "Diversification", "answer": "Real estate is an excellent addition to a portfolio because it is not linked to other asset classes like stocks and bonds. This can help to diversify and improve overall portfolio performance.", "tab": "tab-9"},
+            {"title" : "Rental Cash Flow", "answer": "Investing in income-producing properties is designed to generate cash flow with stable assets.", "tab": "tab-9"},
+            {"title" : "Rent Appreciation", "answer": "Rent increases annually create opportunities for higher payouts.", "tab": "tab-9"},
+            {"title" : "Capital Appreciation", "answer": "Your investments grow as the value of properties increases, which can help you reach your financial goals. Capital Preservation Investing in real estate provides a long-term inflation hedge and protects your assets.", "tab": "tab-9"},
+            {"title" : "Hedge against inflation", "answer": "While stocks, bonds, and cash tend to be negatively affected by inflation, real estate has historically proven to be an attractive hedge against inflation.", "tab": "tab-9"}
+
+        ],
+        "section-10": {
+            "text-1": "We believe that democracy is the strongest when everyone has ownership",
+            "text-2": "Joint real estate<br> investing (r)evolution",
+            "btn": "Build your wealth"
+        },
+        "footer": {
+            "resourses":{
+                "title":"Resourses",
+                "text":[
+                    "About Us",
+                    "FAQs"
+                ]
+            },
+            "contact": {
+                "title": "Contact Us",
+                "text": [
+                    "Marketplace",
+                    "info@dEquity.io"
+                ]
+            },
+            "copyright": "© Copyright 2023 dEquity. All Rights Reserved.",
+            "testText": "Please be aware that the site is currently in a testing phase, and no services are provided. The sole functionality of the site at present is to collect user-provided email contact details to contact persons who may have an interest in the services in the future."
+
+        }
+
+    }
+
+}

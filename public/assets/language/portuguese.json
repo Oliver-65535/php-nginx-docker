@@ -1,0 +1,97 @@
+{
+
+    "learn" : {
+        "navbar": [
+            "Como funciona",
+            "Mercado",
+            "Sobre",
+            "Perguntas frequentes"
+        ],
+        "btn-header": "Invista em sua riqueza",
+        "modal": {
+            "title": "Está acontecendo agora",
+            "text-2": [
+                "Estamos criando uma comunidade de pessoas como você para compartilhar os primeiros projetos da dEquity com o mundo.",
+                "Esteja entre os primeiros a saber quando as propriedades forem lançadas."
+            ],
+            "inputPlaceHolder": "Digite seu e-mail",
+            "send": "Enviar"
+        },
+        "animation-text": "FAQs",
+        "animation-text-test": "<span class='fw-light text-1 m-text-3 animation_text_flipIn' style='ont-weight: 600;'>FAQs</span>",
+        "accordion-wrapper-titles": [
+            "Sobre a equidade",
+            "Investimento imobiliário",
+            "Tokenização/NFT",
+            "Começando",
+            "Comprando",
+            "Possuir",
+            "Gestão da propriedade",
+            "Questões gerais",
+            "Aprender"
+        ],
+        "accordion-wrapper2-answers": [
+            {"title" : "O que é dEquity?", "answer": "dEquity é uma plataforma transacional baseada em blockchain que torna mais do que simples investir em imóveis e obter renda de aluguel no primeiro dia.", "tab": " tab-1"},
+            {"title" : "Por que investir através da dEquity?", "answer": "A dEquity é uma plataforma na qual vários investidores imobiliários residenciais optam por investir em um imóvel alugado e, assim, aproveitar um fluxo de renda das obrigações de aluguel do propriedade. dEquity oferece o benefício de crowdsourcing para renda de investimento, evitando as desvantagens de manutenção que os proprietários de aluguel típicos assumem. O marketplace da dEquity permite que os clientes em potencial visualizem os documentos financeiros de uma propriedade e enviem uma oferta de casa.", "tab": "tab-1 "},
+            {"title" : "Por que investir em imóveis?", "answer": "Os imóveis oferecem fluxo de caixa, construção de patrimônio, retornos competitivos ajustados ao risco, preservação de capital e proteção contra a inflação.", "tab": "tab -2"},
+            {"title" : "Por que investir em Miami?", "answer": "Miami é um ótimo mercado para investir! Miami é considerado o mercado mais destacado em que o aluguel cresce mais rápido ano (YoY). Em 2023, o índice renal mostra uma impressionante 14,3%* de valorização.<br> Fonte: <a href='https://www.zillow.com/research/renting/' class='link' target='_blank'>www.zillow.com</ a><br> Além disso, o índice de vendas de casas em Miami em 2023 mostra um aumento de 17,3% ano a ano (YOY) desde setembro de 2021. <br> Fonte: <a href='https://www.redfin.com ' class='link' target='_blank'>www.redfin.com</a>", "tab": "tab-2"},
+            {"title" : "O que é NFT?", "answer": "NFT significa 'Token não fungível'. É um ativo digital que representa a propriedade de um item exclusivo, como imóveis, itens colecionáveis e outros ativos .", "tab": "tab-3"},
+            {"title" : "O que é 'tokenização'?", "answer": "Tokenização é o processo de criação de 'tokens digitais'/NFTs que representam um ativo do mundo real, como um imóvel. Tokenização de imóveis usar NFTs envolve representar a propriedade de um ativo imobiliário usando um 'token digital' armazenado em um blockchain. Empresas como a Circle produziram <a href='https://www.circle.com/en/usdc'>dólares tokenizados</ a>, a Paxos criou o <a href='https://paxos.com/paxgold/'>ouro tokenizado</a> e agora a dEquity capacita os investidores a aproveitar as vantagens dos imóveis fracionários tokenizados! ", "tab": "tab-3"},
+            {"title" : "O que é investimento fracionário?", "answer": "Investir em imóveis fracionados permite que os investidores comprem uma parte de uma propriedade em vez de toda a propriedade, tornando o investimento imobiliário mais simples, acessível e empolgante.", "tab": "tab-3"},
+            {"title" : "Como posso começar?", "answer": "É simples começar! Basta ir ao nosso mercado. Pesquise sua propriedade de investimento ideal com parâmetros de pesquisa personalizados Identifique sua propriedade de aluguel perfeita. Adquira seu primeiro NFT e comece a construir seu portfólio de investimentos. Aproveite sua renda de aluguel depositada diretamente em sua carteira.", "tab": "tab-4"},
+            {"title" : "O que é uma carteira? Por que preciso de uma?", "answer": "Carteiras criptográficas armazenam suas chaves privadas, mantendo sua cripto segura e acessível. Se você não tiver uma carteira criptográfica, não há problema . Nosso guia passo a passo fará com que sua primeira compra seja satisfatória.", "tab": "tab-4"},
+            {"title" : "Qual é o investimento mínimo?", "answer": "O investimento mínimo é de US$ 100 por NFT, o que representa uma participação na LLC proprietária da propriedade.", "tab": "tab-5 "},
+            {"title" : "Quanto tempo depois de pagar receberei NFTs em minha carteira?", "answer": "Seus NFTs serão entregues instantaneamente em sua carteira se você usar um cartão de crédito ou criptomoeda para fazer o pagamento.", "tab": "tab-5"},
+            {"title" : "Qual é o número máximo de NFTs que posso comprar em cada imóvel?", "answer": "Cada investidor pode comprar 10% dos NFTs por cada prpropriedade. Se a propriedade estiver ativa por mais de três dias, esse percentual aumenta para 15%.", "tab": "tab-5"},
+            {"title" : "Como as propriedades são escolhidas para o inventário?", "answer": "Nossa equipe de investidores imobiliários altamente experientes seleciona oportunidades de investimento para nossos clientes. Cada unidade foi inspecionada, impostos e serviços públicos foram pagos em locatários completos e aceitáveis foram encontrados. Explore nosso mercado para começar!", "tab": "tab-5"},
+            {"title" : "Como são tratadas as inspeções da propriedade?", "answer": "Uma empresa de inspeção terceirizada profissional inspeciona todas as propriedades. Você pode encontrar o relatório de inspeção na seção Documentos das páginas da propriedade.", "tab" : "tab-5"},
+            {"title" : "As propriedades são compradas com dívida?", "answer": "Não, todas as propriedades são compradas à vista, sem dívidas.", "tab": "tab-5"},
+            {"title" : "Como faço para ganhar dinheiro?", "answer": "Comprando e vendendo suas participações enquanto recebo renda de aluguel no meio. O “molho secreto” é simples “Comprar - Manter - Ganhar - Repetir”." , "tab": "tab-6"},
+            {"title" : "Como faço para receber minha renda?", "answer": "O aluguel é pago quinzenalmente ou a cada duas semanas em stablecoins com o mesmo valor de uma moeda como dólares. Usá-lo permite que os investidores recebam seus renda de aluguel em uma moeda estável que não flutua.", "tab": "tab-6"},
+            {"title" : "O que posso fazer com minhas participações?", "answer": "Os imóveis são uma das melhores reservas de valor que existem. Quanto mais tempo você mantiver suas participações, mais retorno significativo poderá esperar obter . Basta investir em imóveis para alugar, receber o fluxo de caixa e reinvestir para comprar mais. O “molho secreto” é simples “Comprar - Reter - Ganhar - Repetir”. nosso mercado secundário a qualquer momento. Você está sempre no controle!", "tab": "tab-6"},
+            {"title" : "Como posso acompanhar o desempenho da minha propriedade?", "answer": "Todos os proprietários têm seu painel, chamado \"Visão Geral do Ativo\", onde você pode ver minhas NFTs que possui e seu valor principal atual. Você 'verá quanto dinheiro foi adicionado à sua conta, juntamente com registros de transações históricas. Ele será ajustado automaticamente, começando após a conclusão da compra de NFT.", "tab": "tab-6"},
+            {"title" : "Quem gere as propriedades?", "answer": "Todas as propriedades são geridas por empresas de gestão profissionais independentes licenciadas e seguradas, responsáveis pelo arrendamento da propriedade, cobrança da renda e manutenção ou reparação da propriedade.", "tab ": "tab-7"},
+            {"title" : "Como são tratados os reparos?", "answer": "Cada propriedade tem uma Reserva de Manutenção de 5–8% para lidar com reparos inesperados. Se for necessário fazer um reparo extenso que exceda a Reserva de Manutenção, todos a renda do aluguel será usada para pagar os reparos. Suponha que qualquer parte da Reserva de Manutenção seja usada. Nesse caso, ela será reabastecida com 10% do fluxo mensal de receitas até que esteja cheia novamente.", "tab": "tab-7"},
+            {"title" : "Autenticação de dois fatores — o que é?", "answer": "A autenticação de dois fatores (2FA) adiciona uma camada de segurança à sua senha. Com 2FA ativado em sua conta, você terá que fornecer sua Código 2FA ao executar ações específicas.", "tab": "tab-8"},
+            {"title" : "Posso indicar alguém para o Dequity?", "answer": "Com certeza! Amamos seus amigos e familiares. Depois de criar uma conta dEquity, você pode acessar um link de referência exclusivo que rastreará sua indicação e recompensa você com um incentivo dEquity que você pode aplicar em seu próximo investimento.", "tab": "tab-8"},
+            {"title" : "Quem tem permissão para investir?", "answer": "dEquity está disponível para quase todos investirem em imóveis! invista com dEquity.", "tab": "tab-8"},
+            {"title" : "Residentes dos seguintes países podem não ter permissão para usar nossa plataforma:", "answer": "<ul class='ml-4'><li>Estados Unidos</li><li>Afeganistão </li><li>Bielorrússia</li><li>Birmânia</li><li>Burundi</li><li>República Centro-Africana</li><li>Cuba</li><li>Democrata República do Congo</li><li>Guiné-Bissau</li><li>Irão</li><li>Iraque</li><li>Líbano</li><li>Líbia</li>< li>Mali</li><li>Nicarágua</li><li>Coréia do Norte</li><li>Somália</li><li>Sudão do Sul</li><li>Sudão</li>< li>Síria</li><li>Venezuela</li><li>Iêmen</li></ul><br><small>*Esta lista não é completa. Restrições adicionais podem ser aplicadas.</small ><br><br>", "tab": "tab-8"},
+            {"title" : "U.S. INVESTORS", "answer": "No momento, dEquity não está disponível para investidores dos EUA. Faz parte da visão e do roteiro da dEquity abrir acesso à plataforma dEquity a todos os investidores dos EUA no futuro. Nós manterá você informado!", "tab": "tab-8"},
+            {"title" : "Obtenha conhecimento", "answer": "Nossos especialistas compartilham percepções, perspectivas e novas ideias sobre vários tópicos relacionados aos nossos negócios e mercados. Dê uma olhadaveja o que eles estão pensando.", "tab": "tab-9"},
+            {"title" : "Potencial de renda", "answer": "Os imóveis podem gerar renda por meio de pagamentos de aluguel do inquilino. Isso pode fornecer um fluxo constante de renda para o investidor.", "tab": "tab-9"},
+            {"title" : "Potencial de valorização", "answer": "Os valores dos imóveis podem aumentar com o tempo, levando à valorização do capital do investidor.", "tab": "tab-9"},
+            {"title" : "Diversificação", "answer": "Os imóveis são uma excelente adição a um portfólio porque não estão vinculados a outras classes de ativos, como ações e títulos. Isso pode ajudar a diversificar e melhorar o desempenho geral do portfólio.", "tab": "tab-9"},
+            {"title" : "Fluxo de caixa do aluguel", "answer": "Investir em propriedades geradoras de renda visa gerar fluxo de caixa com ativos estáveis.", "tab": "tab-9"},
+            {"title" : "Valorização do aluguel", "answer": "Aumentos anuais do aluguel criam oportunidades para pagamentos mais altos.", "tab": "tab-9"},
+            {"title" : "Capital Appreciation", "answer": "Seus investimentos crescem à medida que o valor das propriedades aumenta, o que pode ajudá-lo a atingir suas metas financeiras. Preservação de capital Investir em imóveis oferece um hedge de inflação de longo prazo e protege seu recursos.", "tab": "tab-9"},
+            {"title" : "Cobertura contra a inflação", "answer": "Embora ações, títulos e caixa tendam a ser afetados negativamente pela inflação, o mercado imobiliário provou historicamente ser uma cobertura atraente contra a inflação.", "tab": "tab-9"}
+
+        ],
+        "section-10": {
+            "text-1": "Acreditamos que a democracia é mais forte quando todos têm propriedade",
+            "text-2": "Imobiliário conjunto<br> investindo (r)evolução",
+            "btn": "Construa sua riqueza"
+        },
+        "footer": {
+            "resourses":{
+                "title":"Recursos",
+                "text":[
+                    "Sobre nós",
+                    "Perguntas frequentes"
+                ]
+            },
+            "contact": {
+                "title": "Fale Conosco",
+                "text": [
+                    "Mercado",
+                    "info@dEquity.io"
+                ]
+            },
+            "copyright": "© Copyright 2023 dEquity. Todos os direitos reservados.",
+            "testText": "Esteja ciente de que o site está atualmente em fase de teste e nenhum serviço é fornecido. A única funcionalidade do site no momento é coletar detalhes de contato de e-mail fornecidos pelo usuário para contatar pessoas que possam ter interesse em os serviços no futuro."
+
+        }
+
+    }
+
+}

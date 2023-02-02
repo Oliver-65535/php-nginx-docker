@@ -1,0 +1,97 @@
+{
+
+    "learn" : {
+        "navbar": [
+            "Làm thế nào nó hoạt động",
+            "Thương trường",
+            "Về",
+            "Hỏi đáp"
+        ],
+        "btn-header": "Hãy đầu tư vào sự giàu có của bạn",
+        "modal": {
+            "title": "Nó đang diễn ra",
+            "text-2": [
+                "Chúng tôi đang phát triển một cộng đồng gồm những người như bạn để chia sẻ các dự án đầu tiên của dEquity với mọi người.",
+                "Hãy là một trong những người đầu tiên biết khi nào tài sản được phát hành."
+            ],
+            "inputPlaceHolder": "Nhập email của bạn",
+            "send": "gửi"
+        },
+        "animation-text": "FAQs",
+        "animation-text-test": "<span class='fw-light text-1 m-text-3 animation_text_flipIn' style='ont-weight: 600;'>Câu hỏi thường gặp</span>",
+        "accordion-wrapper-titles": [
+            "Giới thiệu về công bằng",
+            "Đầu tư bất động sản",
+            "Mã thông báo/NFT",
+            "Bắt đầu",
+            "Mua",
+            "Sở hữu",
+            "Quản lý tài sản",
+            "Câu hỏi chung",
+            "Học hỏi"
+        ],
+        "accordion-wrapper2-answers": [
+            {"title" : "dEquity là gì?", "answer": "dEquity là một nền tảng giao dịch dựa trên chuỗi khối giúp việc đầu tư vào bất động sản và kiếm thu nhập cho thuê ngay từ ngày đầu tiên trở nên đơn giản hơn.", "tab": " tab-1"},
+            {"title" : "Tại sao nên đầu tư thông qua dEquity?", "answer": "dEquity là một nền tảng trong đó nhiều nhà đầu tư bất động sản nhà ở lựa chọn đầu tư vào bất động sản cho thuê và do đó tận dụng nguồn thu nhập từ các nghĩa vụ cho thuê của bất động sản. dEquity mang lại lợi ích của việc cung cấp dịch vụ cộng đồng cho thu nhập đầu tư trong khi tránh những bất lợi của việc bảo trì mà các chủ nhà cho thuê thông thường phải gánh chịu. Thị trường của dEquity cho phép khách hàng tiềm năng xem các tài liệu tài chính của bất động sản và gửi đề nghị từ nhà.", "tab": "tab-1 "},
+            {"title" : "Tại sao nên đầu tư vào bất động sản?", "answer": "Bất động sản mang lại dòng tiền, tạo dựng vốn chủ sở hữu, lợi nhuận cạnh tranh được điều chỉnh theo rủi ro, bảo toàn vốn và phòng ngừa lạm phát.", "tab": "tab -2"},
+            {"title" : "Tại sao nên đầu tư vào Miami?", "answer": "Miami là một thị trường tuyệt vời để đầu tư! Miami được coi là thị trường nổi bật nhất trong đó giá thuê tăng nhanh hơn hàng năm (YoY). Vào năm 2023, chỉ số thận cho thấy mức đáng kinh ngạc 14,3%* đánh giá cao.<br> Nguồn: <a href='https://www.zillow.com/research/renting/' class='link' target='_blank'>www.zillow.com</ a><br> Ngoài ra, chỉ số bán nhà ở Miami năm 2023 cho thấy mức tăng 17,3% so với cùng kỳ năm ngoái (YOY) kể từ tháng 9 năm 2021. <br> Nguồn: <a href='https://www.redfin.com ' class='link' target='_blank'>www.redfin.com</a>", "tab": "tab-2"},
+            {"title" : "NFT là gì?", "answer": "NFT là viết tắt của 'Mã thông báo không thể thay thế'. Nó là một tài sản kỹ thuật số đại diện cho quyền sở hữu một mặt hàng duy nhất, chẳng hạn như bất động sản, đồ sưu tầm và các tài sản khác .", "tab": "tab-3"},
+            {"title" : "'Tokenization' là gì?", "answer": "Tokenization là quá trình tạo 'token kỹ thuật số'/NFT đại diện cho một tài sản trong thế giới thực, chẳng hạn như một mảnh bất động sản. Tokenizing bất động sản sử dụng NFT liên quan đến việc đại diện cho quyền sở hữu tài sản bất động sản bằng cách sử dụng 'mã thông báo kỹ thuật số' được lưu trữ trên chuỗi khối. Các công ty như Circle đã sản xuất <a href='https://www.circle.com/en/usdc'>Đô la mã hóa</ a>, Paxos đã tạo <a href='https://paxos.com/paxgold/'>vàng mã hóa</a> và giờ đây dEquity trao quyền cho các nhà đầu tư để tận dụng lợi thế của bất động sản phân đoạn được mã hóa! ", "tab": "tab-3"},
+            {"title" : "Đầu tư theo tỷ lệ là gì?", "answer": "Đầu tư vào bất động sản theo tỷ lệ cho phép các nhà đầu tư mua một phần bất động sản thay vì toàn bộ tài sản, giúp việc đầu tư bất động sản trở nên đơn giản hơn, giá cả phải chăng và thú vị.", "tab": "tab-3"},
+            {"title" : "Tôi có thể bắt đầu như thế nào?", "answer": "Bắt đầu thật đơn giản! Chỉ cần truy cập thị trường của chúng tôi. Tìm kiếm bất động sản đầu tư lý tưởng của bạn với các tham số tìm kiếm tùy chỉnh Xác định bất động sản cho thuê hoàn hảo của bạn. Mua NFT đầu tiên của bạn và bắt đầu xây dựng danh mục đầu tư của bạn. Tận hưởng thu nhập cho thuê được gửi trực tiếp vào ví của bạn.", "tab": "tab-4"},
+            {"title" : "Ví tiền điện tử là gì? Tại sao tôi cần một cái?", "answer": "Ví tiền điện tử lưu trữ khóa cá nhân của bạn, giữ cho tiền điện tử của bạn an toàn và có thể truy cập được. Nếu bạn không có ví tiền điện tử, cũng không vấn đề gì . Hướng dẫn từng bước của chúng tôi sẽ giúp bạn hài lòng trong lần mua hàng đầu tiên.", "tab": "tab-4"},
+            {"title" : "Đầu tư tối thiểu là bao nhiêu?", "answer": "Đầu tư tối thiểu là $100 cho mỗi NFT, thể hiện quyền lợi thành viên trong LLC sở hữu tài sản.", "tab": "tab-5 "},
+            {"title" : "Bao lâu sau khi tôi thanh toán, tôi sẽ nhận được NFT trong ví của mình?", "answer": "NFT của bạn sẽ được chuyển ngay đến ví của bạn nếu bạn sử dụng thẻ tín dụng hoặc tiền điện tử để thực hiện thanh toán.", "tab": "tab-5"},
+            {"title" : "Số lượng NFT tối đa tôi có thể mua trong mỗi tài sản là bao nhiêu?", "answer": "Mỗi nhà đầu tư có thể mua 10% NFT cho mỗi prhoạt động. Nếu thuộc tính tồn tại hơn ba ngày, tỷ lệ phần trăm này tăng lên 15%.", "tab": "tab-5"},
+            {"title" : "Các tài sản được chọn để kiểm kê như thế nào?", "answer": "Đội ngũ các nhà đầu tư bất động sản giàu kinh nghiệm của chúng tôi sẽ tự tay chọn các cơ hội đầu tư cho khách hàng của mình. Mỗi căn hộ đã được kiểm tra, thuế và các tiện ích đã được thanh toán trong đã tìm thấy những người thuê đầy đủ và chấp nhận được. Hãy khám phá thị trường của chúng tôi để bắt đầu!", "tab": "tab-5"},
+            {"title" : "Việc kiểm tra tài sản được xử lý như thế nào?", "answer": "Một công ty kiểm tra bên thứ 3 chuyên nghiệp kiểm tra tất cả các tài sản. Bạn có thể tìm thấy báo cáo kiểm tra trong phần Tài liệu của các trang tài sản.", "tab" : "tab-5"},
+            {"title" : "Các tài sản được mua bằng nợ phải không?", "answer": "Không, tất cả các tài sản được mua bằng tiền mặt mà không có nợ.", "tab": "tab-5"},
+            {"title" : "Tôi kiếm tiền bằng cách nào?", "answer": "Bằng cách mua và bán cổ phần của bạn trong khi nhận thu nhập cho thuê ở giữa. “Nước sốt bí mật” đơn giản là “Mua - Giữ - Kiếm - Lặp lại”." , "tab": "tab-6"},
+            {"title" : "Làm cách nào để tôi nhận được thu nhập cho thuê của mình?", "answer": "Tiền thuê được thanh toán hai tuần một lần hoặc hai tuần một lần bằng stablecoin có cùng giá trị với một loại tiền tệ như đô la. Sử dụng nó cho phép các nhà đầu tư nhận được thu nhập cho thuê bằng đồng tiền ổn định không dao động.", "tab": "tab-6"},
+            {"title" : "Tôi có thể làm gì với tài sản của mình?", "answer": "Bất động sản là một trong những kho lưu trữ giá trị tốt nhất tồn tại. Bạn giữ tài sản của mình càng lâu, bạn càng mong đợi nhận được nhiều lợi nhuận hơn . Chỉ cần đầu tư vào bất động sản cho thuê, nhận dòng tiền và tái đầu tư để mua thêm. “Công thức bí mật” rất đơn giản là “Mua - Giữ - Kiếm tiền - Lặp lại”. Bạn có thể vay dựa trên số tiền nắm giữ của mình để mua thêm bất động sản hoặc bán NFT của mình trên thị trường thứ cấp của chúng tôi bất cứ lúc nào. Bạn luôn nắm quyền kiểm soát!", "tab": "tab-6"},
+            {"title" : "Làm cách nào tôi có thể theo dõi hiệu suất thuộc tính của mình?", "answer": "Tất cả chủ sở hữu đều có bảng điều khiển của họ, được gọi là \"Tổng quan về tài sản\", nơi bạn có thể xem NFT của tôi mà bạn nắm giữ và giá trị gốc hiện tại của chúng. Bạn sẽ thấy số tiền đã được thêm vào tài khoản của bạn, cùng với hồ sơ của các giao dịch lịch sử. Nó sẽ tự động điều chỉnh, bắt đầu sau khi giao dịch mua NFT hoàn tất.", "tab": "tab-6"},
+            {"title" : "Ai quản lý tài sản?", "answer": "Tất cả tài sản được quản lý bởi các công ty quản lý độc lập chuyên nghiệp được cấp phép và bảo hiểm chịu trách nhiệm cho thuê tài sản, thu tiền thuê và bảo trì hoặc sửa chữa tài sản.", "tab ": "tab-7"},
+            {"title" : "Việc sửa chữa được xử lý như thế nào?", "answer": "Mỗi tài sản có Dự trữ bảo trì từ 5–8% để xử lý các sửa chữa đột xuất. Nếu cần thực hiện một sửa chữa lớn vượt quá Dự trữ bảo trì, thì tất cả thu nhập cho thuê sẽ được sử dụng để thanh toán cho việc sửa chữa. Giả sử bất kỳ phần nào của Dự trữ bảo trì được sử dụng. Trong trường hợp đó, nó sẽ được bổ sung bằng cách sử dụng 10% dòng tiền thu được hàng tháng cho đến khi đầy trở lại.", "tab": "tab-7"},
+            {"title" : "Xác thực hai yếu tố—nó là gì?", "answer": "Xác thực hai yếu tố (2FA) thêm một lớp bảo mật vào mật khẩu của bạn. Với 2FA được bật trên tài khoản của bạn, bạn sẽ phải cung cấp mã 2FA khi thực hiện các hành động cụ thể.", "tab": "tab-8"},
+            {"title" : "Tôi có thể giới thiệu ai đó đến Dequity không?", "answer": "Chắc chắn rồi! Chúng tôi yêu bạn bè và gia đình của bạn. Sau khi tạo tài khoản dEquity, bạn có thể truy cập liên kết giới thiệu duy nhất sẽ theo dõi lượt giới thiệu và phần thưởng của bạn bạn với phần thưởng công bằng mà bạn có thể áp dụng cho khoản đầu tư tiếp theo của mình.", "tab": "tab-8"},
+            {"title" : "Ai được phép đầu tư?", "answer": "dEquity dành cho hầu hết mọi người đầu tư vào bất động sản cùng! Tất cả công dân Châu Âu, Bắc và Nam Mỹ, và hầu hết các nước Châu Á, đều có thể đăng ký và đầu tư với dEquity.", "tab": "tab-8"},
+            {"title" : "Cư dân của các quốc gia sau có thể không được phép sử dụng nền tảng của chúng tôi:", "answer": "<ul class='ml-4'><li>Hoa Kỳ</li><li>Afghanistan </li><li>Belarus</li><li>Miến Điện</li><li>Burundi</li><li>Cộng hòa Trung Phi</li><li>Cuba</li><li>Dân chủ Cộng hòa Congo</li><li>Guinea-Bissau</li><li>Iran</li><li>Iraq</li><li>Lebanon</li><li>Libya</li>< li>Mali</li><li>Nicaragua</li><li>Triều Tiên</li><li>Somalia</li><li>Nam Sudan</li><li>Sudan</li>< li>Syria</li><li>Venezuela</li><li>Yemen</li></ul><br><small>*Danh sách này không bao gồm tất cả. Có thể áp dụng các hạn chế khác.</small ><br><br>", "tab": "tab-8"},
+            {"title" : "U.S. INVESTORS", "answer": "Hiện tại, dEquity không khả dụng cho các nhà đầu tư Hoa Kỳ. Đó là tầm nhìn và lộ trình của dEquity nhằm mở quyền truy cập vào nền tảng dEquity cho tất cả các nhà đầu tư Hoa Kỳ trong tương lai. Chúng tôi sẽ cập nhật cho bạn!", "tab": "tab-8"},
+            {"title" : "Nhận kiến thức", "answer": "Các chuyên gia của chúng tôi chia sẻ thông tin chi tiết, quan điểm và ý tưởng mới về các chủ đề khác nhau liên quan đến doanh nghiệp và thị trường của chúng tôi. Hãy tham giaxem họ đang nghĩ gì.", "tab": "tab-9"},
+            {"title" : "Tiềm năng thu nhập", "answer": "Bất động sản có thể tạo thu nhập thông qua các khoản thanh toán tiền thuê nhà. Điều này có thể mang lại nguồn thu nhập ổn định cho nhà đầu tư.", "tab": "tab-9"},
+            {"title" : "Tiềm năng tăng giá", "answer": "Giá trị bất động sản có thể tăng theo thời gian, dẫn đến sự tăng giá của nhà đầu tư.", "tab": "tab-9"},
+            {"title" : "Đa dạng hóa", "answer": "Bất động sản là một sự bổ sung tuyệt vời cho danh mục đầu tư vì nó không liên kết với các loại tài sản khác như cổ phiếu và trái phiếu. Điều này có thể giúp đa dạng hóa và cải thiện hiệu suất danh mục đầu tư tổng thể.", "tab": "tab-9"},
+            {"title" : "Dòng tiền cho thuê", "answer": "Đầu tư vào tài sản tạo thu nhập được thiết kế để tạo ra dòng tiền với tài sản ổn định.", "tab": "tab-9"},
+            {"title" : "Tăng giá thuê", "answer": "Tiền thuê tăng hàng năm tạo cơ hội cho các khoản thanh toán cao hơn.", "tab": "tab-9"},
+            {"title" : "Capital Appreciation", "answer": "Các khoản đầu tư của bạn tăng lên khi giá trị tài sản tăng lên, điều này có thể giúp bạn đạt được các mục tiêu tài chính của mình. Bảo toàn vốn Đầu tư vào bất động sản cung cấp một hàng rào lạm phát dài hạn và bảo vệ bạn nội dung.", "tab": "tab-9"},
+            {"title" : "Hàng rào chống lại lạm phát", "answer": "Mặc dù cổ phiếu, trái phiếu và tiền mặt có xu hướng bị ảnh hưởng tiêu cực bởi lạm phát, nhưng bất động sản trong lịch sử đã được chứng minh là một hàng rào hấp dẫn chống lại lạm phát.", "tab": "tab-9"}
+
+        ],
+        "section-10": {
+            "text-1": "Chúng tôi tin rằng dân chủ là mạnh nhất khi mọi người đều có quyền sở hữu",
+            "text-2": "Đầu tư chung<br> bất động sản (r)evolution",
+            "btn": "Xây dựng sự giàu có của bạn"
+        },
+        "footer": {
+            "resourses":{
+                "title":"Tài nguyên",
+                "text":[
+                    "Về chúng tôi",
+                    "Hỏi đáp"
+                ]
+            },
+            "contact": {
+                "title": "Liên hệ với chúng tôi",
+                "text": [
+                    "Thương trường",
+                    "info@dEquity.io"
+                ]
+            },
+            "copyright": "© Copyright 2023 dEquity. All Rights Reserved.",
+            "testText": "Xin lưu ý rằng trang web hiện đang trong giai đoạn thử nghiệm và không có dịch vụ nào được cung cấp. Chức năng duy nhất của trang web hiện tại là thu thập chi tiết liên hệ email do người dùng cung cấp để liên hệ với những người có thể quan tâm đến các dịch vụ trong tương lai."
+
+        }
+
+    }
+
+}
