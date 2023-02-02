@@ -68,8 +68,8 @@
               <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 t-invert">
                 <li><a href="/index.html" class="nav-link px-2 nav-text ">How it Works</a></li>
                 <li><a href="#properties" class="nav-link px-2 nav-text ">Marketplace</a></li>
-                <li><a href="/about.html" class="nav-link px-2 nav-text ">About</a></li>
-                <li><a href="/learn.html" class="nav-link px-2 nav-text ">FAQs</a></li>
+                <li><a href="/about.php" class="nav-link px-2 nav-text ">About</a></li>
+                <li><a href="/learn.php" class="nav-link px-2 nav-text ">FAQs</a></li>
                 <!-- <li><a href="#blog" class="nav-link px-2 nav-text ">Blog</a></li> -->
               </ul>
             </ul>
@@ -388,8 +388,8 @@
           <div class="col-6 col-md">
             <h5 class="text-1 t-invert">Resourses</h5>
             <ul class="list-unstyled text-small">
-              <li><a class="text-2 op-7" href="/about.html">About Us</a></li>
-              <li><a class="text-2 op-7" href="/learn.html">FAQs</a></li>
+              <li><a class="text-2 op-7" href="/about.php">About Us</a></li>
+              <li><a class="text-2 op-7" href="/learn.php">FAQs</a></li>
               <!-- <li><a class="text-2 op-7" href="#">Careers</a></li> -->
             </ul>
           </div>
