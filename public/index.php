@@ -60,14 +60,14 @@
       <!-- header -->
       <header>
         <nav class="navbar navbar-expand-lg ">
-          <a class="navbar-brand" href="/index.html"><div class="logo-image "></div></a>
+          <a class="navbar-brand" href="/index.php"><div class="logo-image "></div></a>
           <button class="navbar-toggler p-0" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa-solid fa-bars t-menu"></i>
           </button>
           <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav m-auto">
               <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 t-invert">
-                <li><a href="/index.html" class="nav-link px-2 nav-text ">How it Works</a></li>
+                <li><a href="/index.php" class="nav-link px-2 nav-text ">How it Works</a></li>
                 <li><a href="#properties" class="nav-link px-2 nav-text ">Marketplace</a></li>
                 <li><a href="/about.php" class="nav-link px-2 nav-text ">About</a></li>
                 <li><a href="/learn.php" class="nav-link px-2 nav-text ">FAQs</a></li>
